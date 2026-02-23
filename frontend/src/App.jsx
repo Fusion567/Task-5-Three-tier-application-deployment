@@ -223,7 +223,7 @@ function App() {
       <header className="app-header">
         <div>
           <p className="eyebrow">Node + Express + MySQL</p>
-          <h1>Tutorial Dashboard</h1>
+          <h1>Yashraj Dashboard</h1>
           <p className="lede">
             Manage the tutorials created by your backend API with a clean,
             responsive React interface.
