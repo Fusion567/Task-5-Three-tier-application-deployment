@@ -1,7 +1,7 @@
 module.exports = {
 //  HOST: "100.27.231.130",
-  HOST: "100.27.231.130",
-  USER: "test",
-  PASSWORD: "test",
-  DB: "testdb"
+  HOST: "three-tier-db.cpgkuom6844m.us-east-1.rds.amazonaws.com",
+  USER: "admin",
+  PASSWORD: "A11theBesT",
+  DB: "webappdb"
 };
